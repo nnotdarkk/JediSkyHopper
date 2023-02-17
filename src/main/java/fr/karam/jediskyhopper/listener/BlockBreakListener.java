@@ -23,7 +23,7 @@ public class BlockBreakListener implements Listener {
         }
 
         if(main.getHopperManager().contains(e.getBlock().getLocation())){
-            e.getPlayer().sendMessage("§cVous venez de casser votre chunk hopper.");
+            e.getPlayer().sendMessage("§cVous venez de casser un chunk hopper.");
             main.getHopperManager().removeChunkHopper(e.getBlock().getLocation());
         }
     }

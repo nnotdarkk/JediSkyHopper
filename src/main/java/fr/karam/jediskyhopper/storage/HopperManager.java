@@ -30,13 +30,4 @@ public class HopperManager {
     public ChunkHopper getChunkHopper(Location location) {
         return chunkHoppers.get(location);
     }
-
-    public boolean isChunkContainsHopper(Chunk chunk) {
-        for(ChunkHopper chunkHopper: chunkHoppers.values()){
-            if(chunkHopper.getChunk().equals(chunk)){
-                return true;
-            }
-        }
-        return false;
-    }
 }

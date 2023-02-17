@@ -5,24 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2bd744f-3c5e-44bd-a1a8-49997fe32797" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/hopper/ChunkHopper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/listener/BlockBreakListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/listener/BlockPlaceListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/storage/ConfigManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/storage/HopperManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/task/HopperTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/utils/FileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/command/GiveChunkHopper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/listener/BlockBreakListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/listener/BlockBreakListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/storage/ConfigManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/storage/ConfigManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/storage/HopperManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/storage/HopperManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/utils/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/karam/jediskyhopper/utils/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +87,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676576668673</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1676647470115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676647470115</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

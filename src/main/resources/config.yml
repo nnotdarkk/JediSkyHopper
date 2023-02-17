@@ -9,6 +9,18 @@
 # Le plugin détecte un item comme chunk hopper s'il possède ce nom
 item-name: "&e✪ &d&lChunk &b&lHopper &e✪"
 
+# La description de l'item donné au joueur lors de /givechunkhopper
+item-lore:
+  - "&7&m-----------------------------"
+  - ""
+  - "&5&l» &7Le chunk Hopper vous"
+  - "&7permet de collecter tous les"
+  - "&7 items dans un chunk!"
+  - ""
+  - "&5• &7Rareté: &d✫✫&f✫"
+  - ""
+  - "&7&m-----------------------------"
+
 # Change le délai à laquelle le plugin va vérifier si un item est au sol
 # 20 = 1 seconde
 # Si vous avez des problèmes de lag, augmentez cette valeur
