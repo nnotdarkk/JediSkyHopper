@@ -1,0 +1,15 @@
+# +------------------------------------------------------------------------------------------+ #
+# |                                                                                          | #
+# |                                   JediSkyHopper                                          | #
+# |                                                                                          | #
+# |                                 Auteur: Karam#7157                                       | #
+# |                                                                                          | #
+# +------------------------------------------------------------------------------------------+ #
+
+# Le plugin détecte un item comme chunk hopper s'il possède ce nom
+item-name: "&e✪ &d&lChunk &b&lHopper &e✪"
+
+# Change le délai à laquelle le plugin va vérifier si un item est au sol
+# 20 = 1 seconde
+# Si vous avez des problèmes de lag, augmentez cette valeur
+task-delay: 5

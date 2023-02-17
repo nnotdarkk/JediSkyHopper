@@ -1,0 +1,6 @@
+name: JediSkyHopper
+version: 1.0.0
+author: Karam
+main: fr.karam.jediskyhopper.Main
+depend:
+  - RoseStacker
